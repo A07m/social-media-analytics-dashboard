@@ -7,4 +7,4 @@
 ![Dashboard 3](Social_media_project_3.jpg)
 
 ## Demo Video
-▶ [Watch the dashboard walkthrough](https://youtube.com/your-link-here)
+▶ [Watch the dashboard walkthrough](https://youtu.be/koFAvsl2f8k?si=JnUn8HyMrltzC5ZV)
