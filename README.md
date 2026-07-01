@@ -1,5 +1,5 @@
 # social-media-analytics-dashboard
-3-dashboard Marketing Analytics Suite built in Excel with Python-generated dataset
+3-dashboard Marketing Analytics Suite built in Excel with Python
 ## Dashboard Screenshots
 
 ![Dashboard 1](Social_media_project_1.jpg)
